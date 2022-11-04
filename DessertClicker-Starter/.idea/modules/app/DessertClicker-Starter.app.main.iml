@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:main" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/65b42f0d9b0b26476b89c1e3ec35a0a4/databinding-adapters-4.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/5c11fe4bf94a900cc39271ef042d48dc/databinding-runtime-4.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/androidx.databinding/databinding-common/4.0.2/f81a43250456490561f646948eaaedfa328c9d3c/databinding-common-4.0.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/3489ae4c4e7b3bd31670a3d04f376be1/jetified-viewbinding-4.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/b37919da5c11f7540e8fa11b08ad413f/appcompat-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/95d0e5ee9e1c8ec51c0b856349449d0c/fragment-1.3.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/a49820528a449a0afe5e65ce3dbcce5d/jetified-activity-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/6bcd3d2c08d75cb67a96e6dd864d4c2d/jetified-appcompat-resources-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/f425f28adbb9023cfcd0c2c9bb0ba62b/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/ad8cbabef06e45f5a62001f17a0ef5bc/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/16e4647ddac3f366e944b76640739b9c/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/ed23c76709be9404401be6998737633f/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/91ebc6c4c953b3022883ae87b6e93ec2/customview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/f47aa996305d8acaf83319d41694c28e/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/fc25b6a2583820c7d511c16284eeb1d1/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/338bf123eeceda58c3437ce0daca8307/jetified-core-ktx-1.8.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/064e6aa5db0ba014ce2725638b191ae4/core-1.8.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/dadc85ac67a65e2e750555ebcbbfe30e/lifecycle-runtime-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/28079447c657b226bf78caa29cccf3a6/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/c6372539964d56264581bd2526f51893/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/5baf31c2da36b1749922d6ca90cdbbeb/jetified-savedstate-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/a6de74594da5155a4a65e81cba987279/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/09725316907ecdf48960e7333c31f01e/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/cb9fe4976392f9bde89dfca94a127462/lifecycle-livedata-core-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/5cadd4fefc056f945500a09ff47f417c/lifecycle-viewmodel-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/cdf36ca2832aac290d64f301076e73b0/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/ed8fa31f6d4220468d6d0fdd6c124c33/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/a5d121619a11344dea19b0e25bc19ec5/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/86ec74886168fda5395bcc69dcf78381/jetified-kotlin-stdlib-jdk8-1.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/efcea46e3c31ca9c73f2ed75f6143667/jetified-kotlin-stdlib-jdk7-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/25b85b7f69d3762d9bce236aefe9a2b8/jetified-kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/d904ef5cbac2998d59a6cbef5ab82917/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/4bcac4128546df40d9bddf13f6ed403c/jetified-timber-4.7.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/58badaaa611241d7d21cca2b7aa16555/jetified-annotations-16.0.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/1b034f03239fae50c38afcb095da6196/jetified-annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/transforms-2/files-2.1/c1213703acf4bdc792c3af83d0e6c285/constraintlayout-2.2.0-alpha04-api.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/android.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.6" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.10/88f2073f4020cdb83132cfe940ceb9a60aba54ea/kotlin-compiler-embeddable-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.10/1cbe9c92c12a94eea200d23c2bbaedaf3daf5132/kotlin-reflect-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.10/d0a7ff2e2500ef497ed0214ae40ad3c8387a6164/kotlin-script-runtime-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.6.10/a56d79bcbea411fa6058e4ecffc2de73e742bd2a/kotlin-daemon-embeddable-1.6.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../eraofband-android/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/kapt/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/kaptKotlin/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:4.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:16.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-adapters:4.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-runtime:4.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:viewbinding:4.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core-ktx:1.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.5.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.jakewharton.timber:timber:4.7.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.2.0-alpha04@aar" level="project" />
+  </component>
+</module>

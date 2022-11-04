@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/df73e15a3176550bcd5419486ab4d78e/transformed/navigation-runtime-2.5.3/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/df73e15a3176550bcd5419486ab4d78e/transformed/navigation-runtime-2.5.3/res" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/df73e15a3176550bcd5419486ab4d78e/transformed/navigation-runtime-2.5.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/703d84c9529b3f207043177a5934bb4e/transformed/navigation-runtime-2.5.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/703d84c9529b3f207043177a5934bb4e/transformed/navigation-runtime-2.5.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/703d84c9529b3f207043177a5934bb4e/transformed/navigation-runtime-2.5.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.5.3/bd43b23019eb10a2bf0e901b1d84c06e8de38572/navigation-runtime-2.5.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.5.3/bd43b23019eb10a2bf0e901b1d84c06e8de38572/navigation-runtime-2.5.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

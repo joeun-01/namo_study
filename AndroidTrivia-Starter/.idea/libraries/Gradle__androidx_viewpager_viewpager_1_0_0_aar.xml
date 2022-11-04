@@ -5,10 +5,15 @@
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/a73d19872570227d5597908cf14977e9/transformed/viewpager-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/a73d19872570227d5597908cf14977e9/transformed/viewpager-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/a73d19872570227d5597908cf14977e9/transformed/viewpager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a73d19872570227d5597908cf14977e9/transformed/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2adacf61f48a1301d6484129427ae4a/transformed/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2adacf61f48a1301d6484129427ae4a/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a2adacf61f48a1301d6484129427ae4a/transformed/viewpager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/08208f4a31266aa63449aaed6714a7b9/transformed/jetified-activity-ktx-1.5.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/08208f4a31266aa63449aaed6714a7b9/transformed/jetified-activity-ktx-1.5.1/res" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/08208f4a31266aa63449aaed6714a7b9/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cee165efe65c24edf93c629c6ff2b130/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cee165efe65c24edf93c629c6ff2b130/transformed/jetified-activity-ktx-1.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cee165efe65c24edf93c629c6ff2b130/transformed/jetified-activity-ktx-1.5.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.5.1/919ce22f7ced37bb707da496c1852fa8a30b6571/activity-ktx-1.5.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.5.1/919ce22f7ced37bb707da496c1852fa8a30b6571/activity-ktx-1.5.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

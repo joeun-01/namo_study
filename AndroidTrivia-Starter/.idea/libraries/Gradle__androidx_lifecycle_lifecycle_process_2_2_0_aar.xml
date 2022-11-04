@@ -4,10 +4,15 @@
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/8f892832121cff99792d196cec33a32d/transformed/jetified-lifecycle-process-2.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/8f892832121cff99792d196cec33a32d/transformed/jetified-lifecycle-process-2.2.0/res" />
       <root url="file://$PROJECT_DIR$/../eraofband-android/caches/transforms-3/8f892832121cff99792d196cec33a32d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f892832121cff99792d196cec33a32d/transformed/jetified-lifecycle-process-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b62946e69c218b2c2d9a8782b6450b53/transformed/jetified-lifecycle-process-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b62946e69c218b2c2d9a8782b6450b53/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b62946e69c218b2c2d9a8782b6450b53/transformed/jetified-lifecycle-process-2.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../eraofband-android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

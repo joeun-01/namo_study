@@ -14,82 +14,82 @@
             <stringArg name="classpath">
               <args>
                 <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/facdbe618b47eb51d801e6f6e480fe11/transformed/databinding-runtime-7.2.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/55beddb2a20521d6bf4e535233442918/transformed/databinding-adapters-7.2.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/androidx.databinding/databinding-common/7.2.1/cb53bd625b7a99cf218f46634d07d1886441288/databinding-common-7.2.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/7a34fa4428bd577fd1cdb49978003e14/transformed/jetified-databinding-ktx-7.2.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/72b5984301fed6e88dff36d26bc257a5/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/0791ae89e3f47352dff0bdbfd220672b/transformed/navigation-ui-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/8cc8bec426b27e9244ccde065d497723/transformed/material-1.7.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/689ff39ef02d8f27049b4ad5e3269252/transformed/appcompat-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/190f924b2e16c78319b2f555586f3aa5/transformed/legacy-support-v4-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/b36712e23c1a8d405e0b42802fd4d59c/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/a6c358b1a0f8c38dbdbae4378a8d11fc/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/8caa0481a2b1de071ea3c1e955c7fc2e/transformed/navigation-fragment-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/b93f990f2ca4b32b5c5799172256b18b/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/58e55665d83d3fa23fbeadbcce8e55d1/transformed/fragment-1.5.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/92cb35255497fe09463370fe5784d566/transformed/legacy-support-core-ui-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/b1f1c5968ecc02750645ccfbc84aba78/transformed/coordinatorlayout-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/c95088c6cc0ec964bd676d6040225293/transformed/dynamicanimation-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/aa5bc11f4cb96bade23c803f4c6d8eb1/transformed/recyclerview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/d81855f2021f10ade151cf1a38ed6d65/transformed/jetified-appcompat-resources-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/9409d03e4a3156a452c337400a0941a1/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/5a81604f80028ca6e0b637d29d71df51/transformed/vectordrawable-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/c07857eba672eecc742f5ebf2abcba9c/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/655b890af522b8d7440cd2f10a60c60b/transformed/navigation-runtime-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/4087a067b7bc67353573e47fe7f68c80/transformed/jetified-activity-ktx-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/48e4a5c9e2ca206dbb3e16ccc3f8c479/transformed/jetified-activity-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/5cf012be5b701581729ba92e6588c7c5/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/46226f9ac7d6f13402ae037b4094c63b/transformed/navigation-common-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/e0a29a6a392b7138a7a0a89121ca9e99/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/c844f117afec1a1609b5f5174ee63988/transformed/jetified-core-ktx-1.9.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/3d8c735034e35d679e950b68a6e3a724/transformed/drawerlayout-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/8c6c0bcf4ff6cd0c9983574e5d99afff/transformed/media-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/ce5ffc747f608dac5caa5e28a2575f6a/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/e42201a287271dc5dea6275c366db97b/transformed/transition-1.4.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/efdd0d0292da09396ab0788f7879acaf/transformed/viewpager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/d66fe4bd65dea0f844f52f964a230783/transformed/slidingpanelayout-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/e0d8be6dc61784e2bf9bad941cafa7b4/transformed/customview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/a613f168bfb45bc9402aca59091b9081/transformed/loader-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/512b55002a078810a0bca80d818bc981/transformed/swiperefreshlayout-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/f1e8713d20ba93a555615833b01a0196/transformed/asynclayoutinflater-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/d49b647f158701a6c8470221f84ad332/transformed/core-1.9.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/bf8d6a1689505b82b9f7eb1a53ae9a20/transformed/versionedparcelable-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/aaf634a14455dfdaeef6bcd8a7bfad7f/transformed/jetified-collection-ktx-1.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/73c07323ad850ee7ced9466d94461447/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/2b8552cbfabcb53ee87d3700536b5947/transformed/jetified-lifecycle-runtime-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/221df3ddb56924974646ee0ae8bae4ca/transformed/jetified-lifecycle-process-2.4.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/88bd8400158658046c2840063bcff3c4/transformed/jetified-lifecycle-service-2.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/f16667243535f715eb4d5861a334f8ef/transformed/lifecycle-runtime-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/c1b992e9d3c3f6903fca1ec5c691c606/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/dff52fb8aa67c7e91ce9898fb9a7dbeb/transformed/lifecycle-viewmodel-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/e49ccf142f6a04186af7be8dc858511c/transformed/cursoradapter-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/ed885285385b5f12d68c54d58fd2c6b8/transformed/jetified-savedstate-ktx-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/f52f40dd393d53653167d56ed53d9160/transformed/jetified-savedstate-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/1a9d206578a9e8a51f86c231fb022218/transformed/cardview-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/0c5a20b71d57b375e073cb0ac692c614/transformed/lifecycle-livedata-2.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/6e3d88c8d57116609d88f9012bfd4290/transformed/core-runtime-2.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/41307d1a0125fb8f39beafcb8d0f0861/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/14a42e44b996c555da39f1288956c382/transformed/lifecycle-livedata-core-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/a6f07842b5144cd5c4ddb206dbeaee26/transformed/documentfile-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/5dbba2908486f9601117fd61b9e44b6d/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/d4785883ccdbc7650b695d5c26c026c8/transformed/print-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/b89704b4461e33adc24d11177883a757/transformed/interpolator-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/1711526147e05f73d64ec52b0822d2e7/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/9692294ad5b991ba3337dbe93cab3083/transformed/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/591b50e5146e4cee3e1327cca68376c3/transformed/jetified-kotlin-stdlib-jdk8-1.6.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/de7c03db3c985a3fb854efd3e9fbc811/transformed/jetified-kotlin-reflect-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/e5dfb7859257c566377d35698ba3601e/transformed/jetified-annotation-experimental-1.3.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/025a899ce389c6cbaa60763e50aa3598/transformed/jetified-kotlin-stdlib-jdk7-1.6.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/03361150341198ebca211eb819b2e505/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/81258e98e459c5b4805a101a949e1b6c/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/71393543340bc60d9b510c0616b6974d/transformed/jetified-annotations-13.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/3ea5c4d40cb39dea2c4d54287c85cf1a/transformed/jetified-startup-runtime-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/transforms-3/cd72f676b927357e5b83146b417d02b3/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/b77f029d98d506b8209c158db14dd7ab/transformed/databinding-runtime-7.2.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5fe8e0eeaaf2e364d064b621d158d076/transformed/databinding-adapters-7.2.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/7.2.2/cb53bd625b7a99cf218f46634d07d1886441288/databinding-common-7.2.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3cf85730091d0d4c24d5145852e92f92/transformed/jetified-databinding-ktx-7.2.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/136710391193bd595f838e31f50007be/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/4a1e13a86172912e50cc0fc7646cef5e/transformed/navigation-ui-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1142f6aea1319e9b7b3655e70a3cc743/transformed/material-1.7.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5ef6b15e0b92b6a73d0c165685b85120/transformed/appcompat-1.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/6f412bcd6211693fb5fbfbce54836910/transformed/legacy-support-v4-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/37a761202819b21a537640b266065b7a/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/32f09432a132f842c10965b7bda24e1e/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/047a14a097ce235273fc55141fde7f2d/transformed/navigation-fragment-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5755f344b039b19f23606784d9e1fa60/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/60f1df0853b8fec5a0d395f3237c4c5a/transformed/fragment-1.5.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fa36b68bf471933af4fc075b649476c1/transformed/legacy-support-core-ui-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a49b7b5cdc362b313378fde5541d95d7/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fafd910ee9bd340a2684500a55dc8d21/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/bdeaa9c7d3b258a118b7e7eaeee540ea/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e28be15bbbb6f03676c193a3dc51dcde/transformed/jetified-appcompat-resources-1.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/d5b5b7e27af02c812b50a88b41e3556b/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/55b2aba9175e7757487fc99682d30c9f/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/feabaf886dfbf327c2d0f238eb332860/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/691ad1dbac255c2cc9b311f75bdcf5db/transformed/navigation-runtime-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e9c328ecbacc4f6053f0b65ca1df5482/transformed/jetified-activity-ktx-1.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/37ef03886469032ea9c577775aed2eef/transformed/jetified-activity-1.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5d627ddc4d6f20a67ee093a6e970a52d/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/61a1aee717f1313bfb46c8b23a2cf6a2/transformed/navigation-common-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/753891e83a4dbcb1e86dfed4a6b79202/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/f631c48d04f74c81a93111cb3e1ef7ca/transformed/jetified-core-ktx-1.9.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/cab8d262dae2287f68f224775f49e96c/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/928ad26dd49b924b80e6a4a7c2ff5ab9/transformed/media-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/f81c2fbecb3703c6cfde30e430400765/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/51c07e00b85d37c8aed4941d162d5ea7/transformed/transition-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/48d23cecb0f5e0d34fbbab29fd57f230/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/52fab7ee1948e0d48257244d62b55c19/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fea6f28845637a608a927d2da37c1337/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fdf4524d2a06c735a1a336bcc5c1c376/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/f04ed25d737f36890a4416dce0a2a1b1/transformed/swiperefreshlayout-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5659cb91ae4d1ea53545a19dea04da0d/transformed/asynclayoutinflater-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5ffeb2cf4e67e3e5669b263296462ce6/transformed/core-1.9.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ac47bf648212b9768b419ef0c04cf577/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/2500d613e025da401cfbb35fd6c6a5a5/transformed/jetified-collection-ktx-1.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1a6f5dc82946354997a4ee8807b3c7d7/transformed/jetified-viewbinding-7.2.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3efca4a82f520f31ac8ae458d04e545f/transformed/jetified-lifecycle-runtime-ktx-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ff8406cbfa0b25546a3fd5a0b278caf9/transformed/jetified-lifecycle-process-2.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/383ff25a9e865542b61a8121cbeec58e/transformed/jetified-lifecycle-service-2.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/08cb586c247a54bb0c6ee8e10aae853c/transformed/lifecycle-runtime-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e3ff654bccc46563418bb564d13fdb07/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c03c9bc2775db82f50b22dadbcbc8558/transformed/lifecycle-viewmodel-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/aa849c0f2cd433b70c3ac85035035810/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c1b8c8536a970148dbc4f77c8250c92a/transformed/jetified-savedstate-ktx-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c18075a544425f462fca8150bb9e72b3/transformed/jetified-savedstate-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/2b2f2737f0f16dbb90154d69278cd52b/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/eae96ea47addd8ef6be490f40c8e484d/transformed/lifecycle-livedata-2.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fe720abcfa57fe60667692a54e480af8/transformed/core-runtime-2.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/4726e12cc873119e4719d01c3f8cff02/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/076d3b9f13d16b57e37bd7fc71fdbab5/transformed/lifecycle-livedata-core-2.5.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/7ebea284e5f34d3c16e432e70d94dde2/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1f659455dd0da21738f3b287ac5baa6b/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/17698ff303d90f6d5530897d73f76d84/transformed/print-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a54c2d5d18bd4d4e969b65f90a66c2b9/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/9824c7347fa919c1ffb264e1866d5b34/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a9e73ed86749e1b4cccf7f48ea0cd98d/transformed/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/9ae473c4908420760a9f3c7aabfbc564/transformed/jetified-kotlin-stdlib-jdk8-1.6.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/aa96373f2543359a4b505285ee8012f7/transformed/jetified-kotlin-reflect-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c5c806f8b58e1072e860573e29486e77/transformed/jetified-annotation-experimental-1.3.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/849147880cd387fdf2be78044610ff76/transformed/jetified-kotlin-stdlib-jdk7-1.6.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/6229ed9976579d58267df6f113e464ee/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/4af34e6a0661f6d2156f12edae1d07a0/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/24db3395d5ec49e8f56f66c147cdaa3a/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3dcdc2ac867ad68c8cf3ccd0abf2679f/transformed/jetified-startup-runtime-1.1.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/33b034f5aa9b1eaa14c63def9cf7d917/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -111,15 +111,15 @@
             </arrayArg>
             <arrayArg name="pluginClasspaths">
               <args>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.10/88f2073f4020cdb83132cfe940ceb9a60aba54ea/kotlin-compiler-embeddable-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.10/1cbe9c92c12a94eea200d23c2bbaedaf3daf5132/kotlin-reflect-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.10/d0a7ff2e2500ef497ed0214ae40ad3c8387a6164/kotlin-script-runtime-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.6.10/a56d79bcbea411fa6058e4ecffc2de73e742bd2a/kotlin-daemon-embeddable-1.6.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar</arg>
-                <arg>$MODULE_DIR$/../../../../eraofband-android/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.21/97bdd5a752ce73b58ef16c17bc7f0ea2faff7a2e/kotlin-compiler-embeddable-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.21/5dc3574d9b7bebfcb4ec6b10ada4aaa9e140bd0b/kotlin-reflect-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.21/99c6675100da5d6d5b1c5a1032f27f28008d101b/kotlin-script-runtime-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.6.21/46b78cf392e1c4f10854c3cadba44abb7b82250f/kotlin-daemon-embeddable-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
               </args>
             </arrayArg>
             <arrayArg name="pluginOptions" />
@@ -156,7 +156,7 @@
     <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="AndroidTrivia-Starter.app.main" scope="TEST" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-common:7.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-common:7.2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.1" level="project" />
@@ -170,11 +170,11 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-runtime:7.2.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-runtime:7.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-adapters:7.2.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-ktx:7.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-adapters:7.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-ktx:7.2.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
