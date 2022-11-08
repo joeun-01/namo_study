@@ -16,6 +16,7 @@
 
 package com.example.android.dessertclicker
 
+import DessertTimer
 import android.content.ActivityNotFoundException
 import android.os.Bundle
 import android.util.Log
@@ -26,6 +27,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ShareCompat
 import androidx.databinding.DataBindingUtil
 import com.example.android.dessertclicker.databinding.ActivityMainBinding
+
+const val KEY_REVENUE = "revenue_key"
+const val KEY_DESSERT_SOLD = "dessert_sold_key"
+const val KEY_TIMER_SECONDS = "timer_seconds_key"
 
 class MainActivity : AppCompatActivity() {
 
@@ -44,6 +49,7 @@ class MainActivity : AppCompatActivity() {
      */
     data class Dessert(val imageId: Int, val price: Int, val startProductionAmount: Int)
 
+    private lateinit var dessertTimer: DessertTimer
     // Create a list of all desserts, in order of when they start being produced
     private val allDesserts = listOf(
             Dessert(R.drawable.cupcake, 5, 0),
@@ -67,12 +73,22 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("MainActivity", "onCreate Called")
 
+        if (savedInstanceState != null) {
+            revenue = savedInstanceState.getInt(KEY_REVENUE, 0)
+            dessertsSold = savedInstanceState.getInt(KEY_DESSERT_SOLD, 0)
+            dessertTimer.secondsCount =
+                savedInstanceState.getInt(KEY_TIMER_SECONDS, 0)
+            showCurrentDessert()
+        }
+
         // Use Data Binding to get reference to the views
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
         binding.dessertButton.setOnClickListener {
             onDessertClicked()
         }
+
+        dessertTimer = DessertTimer(this.lifecycle)
 
         // Set the TextViews to the right values
         binding.revenue = revenue
@@ -86,6 +102,42 @@ class MainActivity : AppCompatActivity() {
         super.onStart()
 
         Log.i("MainActivity", "onStart Called")
+        dessertTimer.startTimer()
+    }
+
+    override fun onResume() {
+        super.onResume()
+
+        Log.i("MainActivity", "onResume Called")
+    }
+
+    override fun onPause() {
+        super.onPause()
+
+        Log.i("MainActivity", "onPause Called")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        dessertTimer.stopTimer()
+
+        Log.i("MainActivity", "onStop Called")
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+
+        outState.putInt(KEY_REVENUE, revenue)
+        outState.putInt(KEY_DESSERT_SOLD, dessertsSold)
+        outState.putInt(KEY_TIMER_SECONDS, dessertTimer.secondsCount)
+
+        Log.i("MainActivity", "onSaveInstanceState Called")
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+
+        Log.i("MainActivity", "onDestroy Called")
     }
 
     /**

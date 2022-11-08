@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jjy02\\AndroidStudioProjects\\android-kotlin-fundamentals-starter-apps\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "C:\\Users\\jjy02\\AndroidStudioProjects\\study\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jjy02\\.gradle\\caches\\transforms-2\\files-2.1\\8f218d653a908af99dbb646c54e9f7e6\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",

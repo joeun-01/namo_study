@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.example.android.dessertclicker",
         "split": "",
-        "minSdkVersion": "19"
+        "minSdkVersion": "24"
       }
     }
   ]

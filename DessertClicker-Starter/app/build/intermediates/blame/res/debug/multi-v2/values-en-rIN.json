@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jjy02\\AndroidStudioProjects\\android-kotlin-fundamentals-starter-apps\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\jjy02\\AndroidStudioProjects\\study\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jjy02\\.gradle\\caches\\transforms-2\\files-2.1\\d389946b86058061b23799852357d3e2\\core-1.8.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\jjy02\\.gradle\\caches\\transforms-2\\files-2.1\\5e26a484a148540dc04b09c35fd919a1\\core-1.9.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
